@@ -1,0 +1,31 @@
+﻿  ex2.cpp
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(58,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(104,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(131,30): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(147,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(157,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(178,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,17): warning C4566: character represented by universal-character-name '\u0413' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,17): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,17): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,17): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,17): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,83): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,83): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,83): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,83): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1031,100): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1250)
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1040,9): warning C4101: 'course': unreferenced local variable
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(1040,17): warning C4101: 'student_count': unreferenced local variable
+  ex2.vcxproj -> C:\Users\Acer\Desktop\ex2\Debug\ex2.exe
